@@ -1,3 +1,4 @@
+//Assigning images to categories 
 let categories = [
   {
     title: "Personal",
